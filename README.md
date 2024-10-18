@@ -21,7 +21,7 @@ This is a command-line quiz application built in Python that helps users study c
 ### Installation - **Clone the Repository**:
 
 ```bash
-git clone https://github.com/JakeEstrada/QuizApp.git
+git clone -b master https://github.com/JakeEstrada/QuizApp.git
 cd QuizApp
 ```
 
